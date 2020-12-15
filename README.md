@@ -1,2 +1,4 @@
 # hello-world
-First repository to learrn GitHub
+First repository to learn GitHub
+
+I like potatoes and meat.
